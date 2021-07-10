@@ -1,12 +1,12 @@
 <img align="right" width="250px" src="https://cdn.dribbble.com/users/2054184/screenshots/5426945/computer-flat-design.gif" alt="cover" />
 
-## Hey 👋 I'm Viktor, full stack developer from Italy
+# Hey 👋 I'm Viktor, full stack developer from Italy
 
 💻Excited about all things **Javascript**
 
 💯 Advocate of **readable and maintainable code**
 
-### My Toolbox
+# My Toolbox
 
 <p>
   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'>
@@ -31,9 +31,9 @@
 
 ---
 
-## Latest projects
+# Latest projects
 
-#### [Full-Stuck](https://github.com/cw-thesis-project/full-stuck.com)
+## [Full-Stuck](https://github.com/cw-thesis-project/full-stuck.com)
 
 Full-stack **serverless application**
 
@@ -47,7 +47,7 @@ Built with React and deployed throgh AWS.
 
 ---
 
-#### [Tàipo](https://github.com/vikvikvr/taipo)
+## [Tàipo](https://github.com/vikvikvr/taipo)
 
 Multiplayer **typing game**
 
@@ -61,9 +61,9 @@ Full-stack app built with React, Express, and MongoDB. Uses socket.io and Fireba
 
 ---
 
-#### [Handi-Crawl](https://github.com/vikvikvr/HandiCrawl)
+## [Handi-Crawl](https://github.com/vikvikvr/HandiCrawl)
 
-**Mobile app** to assist people with physical impairments
+**Mobile app** to help people with physical impairments tracking architectural barriers
 
 <a href="https://www.youtube.com/watch?v=5iPP18p-RU8">
 <img width="300px" src="./assets/handi-crawl-mocks.png">
@@ -75,7 +75,7 @@ Built with React Native and Expo. Completed with unit and integration tests made
 
 ---
 
-#### [Asteroids](https://github.com/vikvikvr/asteroids)
+## [Asteroids](https://github.com/vikvikvr/asteroids)
 
 Classic **arcade game** with a twist
 
@@ -89,7 +89,7 @@ Built with Typescript and React. Powered by a p5.js canvas
 
 ---
 
-### Let's chat! 💬
+## Let's chat! 💬
 
 👉 [E-mail](mailto:ricchiuto.viktor@gmail.com)
 👉 [LinkedIn](https://www.linkedin.com/in/vikvikvr/)
