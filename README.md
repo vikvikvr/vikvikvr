@@ -33,7 +33,7 @@
 
 ## Latest projects
 
-#### [Full-Stuck](http://full-stuck.com)
+#### [Full-Stuck](https://github.com/cw-thesis-project/full-stuck.com)
 
 Full-stack **serverless application**
 
@@ -43,7 +43,7 @@ Full-stack **serverless application**
 
 Built with React and deployed throgh AWS.
 
-> [Live site](http://full-stuck.com) • [Demo video](https://www.youtube.com/watch?v=RHwkrV2tcAw)
+> [Live site](http://full-stuck.com) • [Demo video](https://www.youtube.com/watch?v=RHwkrV2tcAw) • [repository](https://github.com/cw-thesis-project/full-stuck.com)
 
 ---
 
