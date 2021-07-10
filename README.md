@@ -2,7 +2,9 @@
 
 # Hi there 👋
 
-I'm Viktor, enthusiastic full-stack developer in the Javascript echosystem 💻
+I'm Viktor, enthusiastic full-stack developer in the **Javascript** echosystem 💻
+
+Advocate of **readable and maintainable code**, achieved by implementing best practices and clean architecture.
 
 ### Languages
 
@@ -15,42 +17,7 @@ I'm Viktor, enthusiastic full-stack developer in the Javascript echosystem 💻
 </p>
 
 
-
-- 🔭 I’m working on: multiplayer typing game made with Typescript and React
-
-- 🌱 I’m currently learning: GSAP animations 
-
-- 💬 Talk to me about: React, Typescript and Sass 
-
-## Latest projects
-
-|  Taipo |Asd   | sss  |ssss   |   |
-|---|---|---|---|---|
-|<img width="300px" src="https://camo.githubusercontent.com/051d0968aa830aaef953937b54dd80b062e58d1afea40381be36d807b480a032/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f627667536370746e574942386a576c536f782f736f757263652e676966">   |   |   |   |   |
-|---|---|---|---|---|
-|  aa |aaa   | aa  |  aa |   |
-|  aa |aaa   | aa  |  aa |   |
-
-
-- [Full-Stuck](http://full-stuck.com)
-- [Tàipo](https://github.com/vikvikvr/taipo)
-- [Handi-Crawl](https://github.com/vikvikvr/HandiCrawl)
-- [Asteroids](https://github.com/vikvikvr/asteroids)
-
-<a href="https://github.com/vikvikvr/asteroids">
-   <img width="300px" src="https://camo.githubusercontent.com/051d0968aa830aaef953937b54dd80b062e58d1afea40381be36d807b480a032/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f627667536370746e574942386a576c536f782f736f757263652e676966">
-</a>
-
-### Familiar with
-
-<p>
-  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
-  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'>
-  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>
-  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg'>   
-</p>
-
-### Frameworks
+### Technologies
 
 <p>
    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>   
@@ -62,6 +29,52 @@ I'm Viktor, enthusiastic full-stack developer in the Javascript echosystem 💻
    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'>
    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'>
 </p>
+
+
+## Latest projects
+
+<table style="width: 100%">
+<tbody>
+  <trow >
+    <td>
+      <ul>
+        <li>a</li>
+        <li>b</li>
+        <li>v</li>
+      </ul>
+    </td>
+    <td>b</td>
+    <td>v</td>
+    </trow>
+  </tbdoy>
+</table>
+<div>
+  <h1>title</h1>
+  <p>description of the app</p>
+  <img align="right" width="300px" src="https://github.com/vikvikvr/taipo/blob/main/readme-assets/taipo-gameplay-small.gif?raw=true"> 
+</div>
+   
+
+|  [Full-Stuck](http://full-stuck.com) | [Tàipo](https://github.com/vikvikvr/taipo) | [Handi-Crawl](https://github.com/vikvikvr/HandiCrawl) | [Asteroids](https://github.com/vikvikvr/asteroids) |
+|---|---|---|---|
+|  Serverless application | Mulitplayer typing game  | Some app  | Arcade game |
+| full image | <img width="200px" src="https://github.com/vikvikvr/taipo/blob/main/readme-assets/taipo-gameplay-small.gif?raw=true">  | handi image  | <img width="200px" src="https://camo.githubusercontent.com/051d0968aa830aaef953937b54dd80b062e58d1afea40381be36d807b480a032/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f627667536370746e574942386a576c536f782f736f757263652e676966">  |
+|---|Full-stack app built with React, Express, and MongoDB. Uses socket.io and Firebase.|---|---|
+
+
+
+
+
+
+### Familiar with
+
+<p>
+  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
+  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'>
+  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>
+  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg'>   
+</p>
+
 
 ### Softwares
   
