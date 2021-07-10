@@ -1,10 +1,10 @@
 <img align="right" width="250px" src="https://cdn.dribbble.com/users/2054184/screenshots/5426945/computer-flat-design.gif" alt="cover" />
 
-# Hi there 👋
+## Hey 👋 I'm Viktor, full-stack developer from Italy
 
-I'm Viktor, enthusiastic full-stack developer in the **Javascript** echosystem 💻
+💻Excited about all things **Javascript**
 
-Advocate of **readable and maintainable code**, achieved by implementing best practices and clean architecture.
+💯 Advocate of **readable and maintainable code**
 
 ### My Toolbox
 
