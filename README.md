@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
+   <img width="350px" src="https://cdn.dribbble.com/users/2054184/screenshots/5426945/computer-flat-design.gif" alt="cover" />
 </div>
 
 <h1> Hello, I'm Viktor</h1>
