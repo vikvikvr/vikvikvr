@@ -1,6 +1,6 @@
 <img align="right" width="250px" src="https://cdn.dribbble.com/users/2054184/screenshots/5426945/computer-flat-design.gif" alt="cover" />
 
-## Hey 👋 I'm Viktor, full-stack developer from Italy
+## Hey 👋 I'm Viktor, full stack developer from Italy
 
 💻Excited about all things **Javascript**
 
