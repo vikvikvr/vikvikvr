@@ -1,6 +1,6 @@
 <img width="100%" src="./assets/code-for-the-future.gif" alt="cover" />
 
-### Hey 👋 I'm Viktor
+### Hey, I'm Viktor <img width="24px" src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif">
 
 #### Full stack developer from Italy
 
@@ -10,7 +10,7 @@
 
 🕹 Creating **games** makes me happy
 
-### My Toolbox
+### My Toolbox 🧰
 
 <p>
   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'>
