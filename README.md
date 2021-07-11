@@ -8,7 +8,7 @@
 
 💯 Advocate of **readable and maintainable code**
 
-🕹 Making **games** gives me happiness
+🕹 Creating **games** makes me happy
 
 ### My Toolbox
 
