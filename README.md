@@ -3,9 +3,11 @@
 # Hey 👋 I'm Viktor
 ## Full stack developer from Italy
 
-💻Excited about all things **Javascript**
+💻 Excited about all things **Javascript**
 
 💯 Advocate of **readable and maintainable code**
+
+🕹 Making **games** gives me happines 
 
 # My Toolbox
 
@@ -41,7 +43,6 @@ Full-stack **serverless application**.
 Enroll in our coding bootcamp, play minigames to learn new technologies.
 
 Track your progress and unlock the CEO status!
-
 
 <a href="http://full-stuck.com" target="_blank">
 <img width="300px" src="./assets/full-stuck-mocks.png">
