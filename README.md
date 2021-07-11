@@ -42,7 +42,7 @@ Enroll in our coding bootcamp, play minigames to learn new technologies.
 Track your progress and unlock the CEO status!
 
 
-<a href="http://full-stuck.com">
+<a href="http://full-stuck.com" target="_blank">
 <img width="300px" src="./assets/full-stuck-mocks.png">
 </a>
 
