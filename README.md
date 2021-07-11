@@ -33,7 +33,7 @@
 
 # Latest projects
 
-## [Full-Stuck](https://github.com/cw-thesis-project/full-stuck.com)
+## 🎓 [Full-Stuck](https://github.com/cw-thesis-project/full-stuck.com)
 
 Full-stack **serverless application**.
 
@@ -52,7 +52,7 @@ Track your progress and unlock the CEO status!
 
 ---
 
-## [Tàipo](https://github.com/vikvikvr/taipo)
+## ⌨ [Tàipo](https://github.com/vikvikvr/taipo)
 
 Multiplayer **typing game**.
 
@@ -72,7 +72,7 @@ Play alone, challenge random opponents or your own friends.
 
 ---
 
-## [Handi-Crawl](https://github.com/vikvikvr/HandiCrawl)
+## ♿ [Handi-Crawl](https://github.com/vikvikvr/HandiCrawl)
 
 **Mobile app** to help people with physical impairments.
 
@@ -90,7 +90,7 @@ Open the map, add markers and let others know something is wrong there.
 
 ---
 
-## [Asteroids](https://github.com/vikvikvr/asteroids)
+## 🚀 [Asteroids](https://github.com/vikvikvr/asteroids)
 
 Classic **arcade game** with a twist.
 
@@ -113,4 +113,5 @@ Mayhem happens randomly.
 ## Let's chat! 💬
 
 👉 [E-mail](mailto:ricchiuto.viktor@gmail.com)
+
 👉 [LinkedIn](https://www.linkedin.com/in/vikvikvr/)
