@@ -42,7 +42,7 @@
 
 ---
 
-### Latest projects
+### Latest projects 🆕
 
 ### 🎓 [Full-Stuck](https://github.com/cw-thesis-project/full-stuck.com)
 
