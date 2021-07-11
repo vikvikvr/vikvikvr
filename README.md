@@ -39,11 +39,7 @@
 
 ### 🎓 [Full-Stuck](https://github.com/cw-thesis-project/full-stuck.com)
 
-Full-stack **serverless application**.
-
-Enroll in our coding bootcamp, play minigames to learn new technologies.
-
-Track your progress and unlock the CEO status!
+Full-stack **serverless application**. Enroll in our coding bootcamp, play minigames to learn new technologies. Track your progress and unlock the CEO status!
 
 <a href="http://full-stuck.com" target="_blank">
 <img width="300px" src="./assets/full-stuck-mocks.png">
