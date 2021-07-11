@@ -111,8 +111,11 @@ Mayhem happens randomly.
 
 ---
 
+
 ### Let's chat! 💬
 
 👉 [E-mail](mailto:ricchiuto.viktor@gmail.com)
 
 👉 [LinkedIn](https://www.linkedin.com/in/vikvikvr/)
+
+![vikvikvr's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikvikvr&hide=issues,stars&theme=dark)
