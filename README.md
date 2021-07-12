@@ -1,4 +1,4 @@
-<img width="100%" src="./assets/code-for-the-future.gif" alt="cover" />
+<img width="100%" src="./assets/github-banner-cropped.gif" alt="writing code for the future" />
 
 ### Hey 👋 I'm Viktor
 
