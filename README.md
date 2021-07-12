@@ -20,16 +20,17 @@ Here are some technologies I've built projects with:
   <p>
     <img width ='32px' title="HTML5" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
     <img width ='32px' title="CSS3" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
-    <img width ='32px' title="javascript" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>  
-    <img width ='32px' title="typescript" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'>  
-    <img width ='32px' title="react" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>   
-    <img width ='32px' title="angular" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'>
-    <img width ='32px' title="sass" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'>
-    <img width ='32px' title="redux" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'>
-    <img width ='32px' title="rxjs" src ='https://cdn.worldvectorlogo.com/logos/rxjs-1.svg'>  
-    <img width ='32px' title="jest" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg'>
-    <img width ='32px' title="jquery" src ='https://cdn.iconscout.com/icon/free/png-256/jquery-7-1175152.png'>  
-    <img width ='32px' title="netlify" src ='https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png'>
+    <img width ='32px' title="Javascript" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>  
+    <img width ='32px' title="Typescript" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'>  
+    <img width ='32px' title="React" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>   
+    <img width ='32px' title="Agular" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'>
+    <img width ='32px' title="SASS" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'>
+    <img width ='32px' title="Redux" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'>
+    <img width ='32px' title="Rxjs" src ='https://cdn.worldvectorlogo.com/logos/rxjs-1.svg'>  
+    <img width ='32px' title="Jest" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg'>
+    <img width ='32px' title="GSAP" src ='https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg'>    
+    <img width ='32px' title="jQuery" src ='https://cdn.iconscout.com/icon/free/png-256/jquery-7-1175152.png'>  
+    <img width ='32px' title="Netlify" src ='https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png'>
     <img width ='32px' title="p5.js" src ='http://blindedcyclops.neocities.org/p5js-icons/p5-sq-reverse-filled.png'>
   </p>
 </details>
@@ -37,40 +38,40 @@ Here are some technologies I've built projects with:
 <details open>
 <summary>Back end</summary>
   <br>
-  <img width ='32px' title="typescript" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'>
+  <img width ='32px' title="Typescript" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'>
   <img width ='32px' title="node.js" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
-  <img width ='32px' title="express" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'>
-  <img width ='32px' title="koa" src ='https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2018-08-28/424668624724_3d9a8923cf9349adcb2c_230.png'>  
+  <img width ='32px' title="Express" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'>
+  <img width ='32px' title="Koa" src ='https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2018-08-28/424668624724_3d9a8923cf9349adcb2c_230.png'>  
   <img width ='32px' title="socket.io" src ='https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png'>
   <img width ='32px' title="mongoDB" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'>
   <img width ='32px' title="postgreSQL" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'>
-  <img width ='32px' title="graphql" src ='https://iconape.com/wp-content/png_logo_vector/graphql.png'>  
-  <img width ='32px' title="firebase" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'>
-  <img width ='32px' title="jest" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg'>
-  <img width ='32px' title="heroku" src ='https://cdn.icon-icons.com/icons2/2108/PNG/512/heroku_icon_130912.png'>
+  <img width ='32px' title="graphQL" src ='https://iconape.com/wp-content/png_logo_vector/graphql.png'>  
+  <img width ='32px' title="Firebase" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'>
+  <img width ='32px' title="Jest" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg'>
+  <img width ='32px' title="Heroku" src ='https://cdn.icon-icons.com/icons2/2108/PNG/512/heroku_icon_130912.png'>
 </details>
 
 <details>
 <summary>Softwares</summary>
   <br>
-  <img width ='32px' title="git" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
-  <img width ='32px' title="postman" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'>
-  <img width ='32px' title="figma" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'>
-  <img width ='32px' title="adobe Xd" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/xd.svg'> 
-  <img width ='32px' title="photoshop" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> 
-  <img width ='32px' title="trello" src ='https://cdn.iconscout.com/icon/free/png-256/trello-9-722650.png'> 
-  <img width ='32px' title="miro" src ='https://cdn.worldvectorlogo.com/logos/miro-2.svg'>  
-  <img width ='32px' title="audacity" src ='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Audacity_Logo.svg/1024px-Audacity_Logo.svg.png'>    
+  <img width ='32px' title="Git" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
+  <img width ='32px' title="Postman" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'>
+  <img width ='32px' title="Figma" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'>
+  <img width ='32px' title="Adobe Xd" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/xd.svg'> 
+  <img width ='32px' title="Photoshop" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> 
+  <img width ='32px' title="Trello" src ='https://cdn.iconscout.com/icon/free/png-256/trello-9-722650.png'> 
+  <img width ='32px' title="Miro" src ='https://cdn.worldvectorlogo.com/logos/miro-2.svg'>  
+  <img width ='32px' title="Audacity" src ='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Audacity_Logo.svg/1024px-Audacity_Logo.svg.png'>    
 </details>
 
 <details>
 <summary>Also worked with</summary>
   <br>
   <img width ='32px' title="C" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'>
-  <img width ='32px' title="java" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>
-  <img width ='32px' title="go" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg'>
-  <img width ='32px' title="python" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
-  <img width ='32px' title="ruby" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/ruby.svg'>
+  <img width ='32px' title="Java" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>
+  <img width ='32px' title="Go" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg'>
+  <img width ='32px' title="Python" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
+  <img width ='32px' title="Ruby" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/ruby.svg'>
 </details>
 
 
@@ -84,7 +85,7 @@ Full-stack **serverless application**. Enroll in our coding bootcamp, play minig
 
 Track your progress and unlock the CEO status!
 
-<a href="http://full-stuck.com" title="play now">
+<a href="http://full-stuck.com" title="play now!">
 <img width="300px" src="./assets/full-stuck-mocks.png">
 </a>
 
@@ -104,7 +105,7 @@ Beware of the typos, letters can be replaced randomly!
 
 Play alone, challenge random opponents or your own friends.
 
-<a href="https://play-taipo.netlify.app/" title="play now">
+<a href="https://play-taipo.netlify.app/" title="play now!">
 <img width="300px" src="./assets/taipo-mockups.png">
 </a>
 
@@ -142,7 +143,7 @@ Everything stops while frozen.
 
 Mayhem happens randomly.
 
-<a href="https://asteroids-client.netlify.app/" title="play now">
+<a href="https://asteroids-client.netlify.app/" title="play now!">
 <img width="300px" src="https://camo.githubusercontent.com/051d0968aa830aaef953937b54dd80b062e58d1afea40381be36d807b480a032/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f627667536370746e574942386a576c536f782f736f757263652e676966">
 </a>
 
