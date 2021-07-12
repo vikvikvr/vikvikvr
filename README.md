@@ -88,9 +88,7 @@ Here are some technologies I've built projects with:
 
 ### 🎓 [Full-Stuck](https://github.com/cw-thesis-project/full-stuck.com)
 
-Full-stack **serverless application**. Enroll in our coding bootcamp, play minigames to learn new technologies.
-
-Track your progress and unlock the CEO status!
+Full Stack **serverless application**: become a coding bootcamp student, play minigames, learn new technologies, become CEO!
 
 <a href="http://full-stuck.com" title="play now!">
 <img width="300px" src="./assets/full-stuck-mocks.png">
@@ -104,13 +102,7 @@ Track your progress and unlock the CEO status!
 
 ### ⌨ [Tàipo](https://github.com/vikvikvr/taipo)
 
-Multiplayer **typing game**.
-
-Get a sentence, type it as fast as you can.
-
-Beware of the typos, letters can be replaced randomly!
-
-Play alone, challenge random opponents or your own friends.
+Multiplayer **typing game** that rewards speed and reflexes: watch out for the typos!
 
 <a href="https://play-taipo.netlify.app/" title="play now!">
 <img width="300px" src="./assets/taipo-mockups.png">
@@ -124,11 +116,7 @@ Play alone, challenge random opponents or your own friends.
 
 ### ♿ [Handi-Crawl](https://github.com/vikvikvr/HandiCrawl)
 
-**Mobile app** to help people with physical impairments.
-
-Users can track architectural barriers of public places.
-
-Open the map, add markers and let others know something is wrong there.
+**Mobile app** that helps people with physical impairments track architectural barriers of public places.
 
 <a href="https://github.com/vikvikvr/HandiCrawl" title="check repository">
   <img width="300px" src="./assets/handi-crawl-mocks.png">
@@ -142,13 +130,7 @@ Open the map, add markers and let others know something is wrong there.
 
 ### 🚀 [Asteroids](https://github.com/vikvikvr/asteroids)
 
-Classic **arcade game** with a twist.
-
-Fly your spaceship and destroy asteroids.
-
-Everything stops while frozen.
-
-Mayhem happens randomly.
+Classic **arcade game** with a twist: fly in space and survive the asteroids field.
 
 <a href="https://asteroids-client.netlify.app/" title="play now!">
 <img width="300px" src="https://camo.githubusercontent.com/051d0968aa830aaef953937b54dd80b062e58d1afea40381be36d807b480a032/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f627667536370746e574942386a576c536f782f736f757263652e676966">
