@@ -57,7 +57,8 @@ Here are some technologies I've built projects with:
 
 <details>
 <summary>Softwares</summary>
-  <br>
+  <br>  
+  <img width ='32px' title="Git" src ='https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg'>
   <img width ='32px' title="Git" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
   <img width ='32px' title="Postman" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'>
   <img width ='32px' title="Figma" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'>
