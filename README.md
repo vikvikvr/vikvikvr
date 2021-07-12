@@ -102,7 +102,7 @@ Full Stack **serverless application**: become a coding bootcamp student, play mi
 
 ### ⌨ [Tàipo](https://github.com/vikvikvr/taipo)
 
-Multiplayer **typing game** that rewards speed and reflexes: watch out for the typos!
+Full Stack multiplayer **typing game** that rewards speed and reflexes: watch out for the typos!
 
 <a href="https://play-taipo.netlify.app/" title="play now!">
 <img width="300px" src="./assets/taipo-mockups.png">
