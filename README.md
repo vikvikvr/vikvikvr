@@ -8,9 +8,13 @@
 
 💯 Advocate of **readable and maintainable code**
 
+🎯 **Doing things right** even when nobody's watching
+
 🕹 Creating **games** makes me happy
 
-### My Toolbox 🧰
+---
+
+## My Toolbox 🧰
 
 Here are some technologies I've built projects with:
 
@@ -77,7 +81,7 @@ Here are some technologies I've built projects with:
 
 ---
 
-### Latest projects 🆕
+## Latest projects 🆕
 
 ### 🎓 [Full-Stuck](https://github.com/cw-thesis-project/full-stuck.com)
 
@@ -124,7 +128,7 @@ Users can track architectural barriers of public places.
 Open the map, add markers and let others know something is wrong there.
 
 <a href="https://github.com/vikvikvr/HandiCrawl" title="check repository">
-<img width="300px" src="./assets/handi-crawl-mocks.png">
+  <img width="300px" src="./assets/handi-crawl-mocks.png">
 </a>
 
 **Tech Stack**: React Native | Expo | Firebase | Jest.
@@ -153,10 +157,22 @@ Mayhem happens randomly.
 
 ---
 
-### Let's chat! 💬
+## Let's chat 💬
 
-👉 [E-mail](mailto:ricchiuto.viktor@gmail.com)
 
-👉 [LinkedIn](https://www.linkedin.com/in/vikvikvr/)
+<a title="connect on LinkedIn" href="https://www.linkedin.com/in/vikvikvr/">
+  <img width="150px" src="https://www.learninglight.com/wp-content/uploads/2017/06/connect-on-LinkedIn-button.png"/>
+</a>
 
+<a title="send me an email" href="mailto:ricchiuto.viktor@gmail.com">
+  <img width="150px" src="https://freepikpsd.com/media/2020/03/Free-Send-Email-Button-PNG-Photos.png"/>
+</a>
+
+
+<!--  
+
+---
 ![vikvikvr's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikvikvr&hide=issues,stars&theme=dark)
+-->
+
+
