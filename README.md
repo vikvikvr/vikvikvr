@@ -12,6 +12,8 @@
 
 🕹 Creating **games** makes me happy
 
+🤭 **Stand-up comedy** makes me even happier
+
 ---
 
 ## My Toolbox 🧰
