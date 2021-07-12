@@ -1,8 +1,8 @@
 <img width="100%" src="./assets/github-banner-cropped.gif" alt="writing code for the future" />
 
-### Hey, I'm Viktor <img width="24px" src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif">
+## About me <img width="24px" src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif">
 
-#### Full stack developer from Italy
+I'm **Viktor**, Full Stack Developer from Italy.
 
 💻 Excited about all things **Javascript**
 
@@ -18,7 +18,7 @@
 
 ## My Toolbox 🧰
 
-Here are some technologies I've built projects with:
+Here are some **technologies** I've built projects with:
 
 <details open>
 <summary>Front end</summary>
@@ -34,6 +34,7 @@ Here are some technologies I've built projects with:
     <img width ='32px' title="Redux" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'>
     <img width ='32px' title="Rxjs" src ='https://cdn.worldvectorlogo.com/logos/rxjs-1.svg'>  
     <img width ='32px' title="Jest" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg'>
+    <img width ='32px' title="Testing library" src ='https://testing-library.com/img/logo-large.png'>    
     <img width ='32px' title="GSAP" src ='https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg'>    
     <img width ='32px' title="jQuery" src ='https://cdn.iconscout.com/icon/free/png-256/jquery-7-1175152.png'>  
     <img width ='32px' title="Netlify" src ='https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png'>
@@ -90,13 +91,13 @@ Here are some technologies I've built projects with:
 
 Full Stack **serverless application**: become a coding bootcamp student, play minigames, learn new technologies, become CEO!
 
-<a href="http://full-stuck.com" title="play now!">
-<img width="300px" src="./assets/full-stuck-mocks.png">
+<a href="http://full-stuck.com" title="Play now!">
+  <img width="300px" src="./assets/full-stuck-mocks.png" alt="full-stuck mocks">
 </a>
 
 **Tech stack**: Typescript | React | Redux | Sass | GSAP | Auth0 | AWS | MongoDB
 
-> [🌐 Live site](http://full-stuck.com) • [📁 Repository](https://github.com/cw-thesis-project/full-stuck.com) • [🎬 Demo video](https://www.youtube.com/watch?v=RHwkrV2tcAw)
+> [🌐 Website](http://full-stuck.com) • [📁 Repository](https://github.com/cw-thesis-project/full-stuck.com) • [🎬 Demo video](https://www.youtube.com/watch?v=RHwkrV2tcAw)
 
 ---
 
@@ -104,13 +105,13 @@ Full Stack **serverless application**: become a coding bootcamp student, play mi
 
 Full Stack multiplayer **typing game** that rewards speed and reflexes: watch out for the typos!
 
-<a href="https://play-taipo.netlify.app/" title="play now!">
-<img width="300px" src="./assets/taipo-mockups.png">
+<a href="https://play-taipo.netlify.app/" title="Play now!">
+<img width="300px" src="./assets/taipo-mockups.png" alt="taipo mocks">
 </a>
 
 **Tech stack**: Typescript | React | Rxjs | Sass | GSAP | Howler.js | Express | Socket.io | Firebase
 
-> [🌐 Live site](https://play-taipo.netlify.app/) • [📁 Repository](https://github.com/vikvikvr/taipo) • [🎬 Demo video](https://www.youtube.com/watch?v=xHpyR43vOwg)
+> [🌐 Website](https://play-taipo.netlify.app/) • [📁 Repository](https://github.com/vikvikvr/taipo) • [🎬 Demo video](https://www.youtube.com/watch?v=xHpyR43vOwg)
 
 ---
 
@@ -118,8 +119,8 @@ Full Stack multiplayer **typing game** that rewards speed and reflexes: watch ou
 
 **Mobile app** that helps people with physical impairments track architectural barriers of public places.
 
-<a href="https://github.com/vikvikvr/HandiCrawl" title="check repository">
-  <img width="300px" src="./assets/handi-crawl-mocks.png">
+<a href="https://github.com/vikvikvr/HandiCrawl" title="View code">
+  <img width="300px" src="./assets/handi-crawl-mocks.png" alt="handi crawl mocks">
 </a>
 
 **Tech Stack**: React Native | Expo | Firebase | Jest.
@@ -132,13 +133,13 @@ Full Stack multiplayer **typing game** that rewards speed and reflexes: watch ou
 
 Classic **arcade game** with a twist: fly in space and survive the asteroids field.
 
-<a href="https://asteroids-client.netlify.app/" title="play now!">
-<img width="300px" src="https://camo.githubusercontent.com/051d0968aa830aaef953937b54dd80b062e58d1afea40381be36d807b480a032/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f627667536370746e574942386a576c536f782f736f757263652e676966">
+<a href="https://asteroids-client.netlify.app/" title="Play now!">
+   <img width="300px" src="https://camo.githubusercontent.com/051d0968aa830aaef953937b54dd80b062e58d1afea40381be36d807b480a032/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f627667536370746e574942386a576c536f782f736f757263652e676966" alt="asteroids gameplay">
 </a>
 
 **Tech Stack**: Typescript | React | p5.js
 
-> [🌐 Live site](https://asteroids-client.netlify.app/) • [📁 Repository](https://github.com/vikvikvr/asteroids)
+> [🌐 Website](https://asteroids-client.netlify.app/) • [📁 Repository](https://github.com/vikvikvr/asteroids)
 
 ---
 
