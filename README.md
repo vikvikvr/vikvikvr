@@ -98,7 +98,7 @@ Track your progress and unlock the CEO status!
 
 **Tech stack**: Typescript | React | Redux | Sass | GSAP | Auth0 | AWS | MongoDB
 
-> [Live site](http://full-stuck.com) • [Repository](https://github.com/cw-thesis-project/full-stuck.com) • [Demo video](https://www.youtube.com/watch?v=RHwkrV2tcAw)
+> [🌐 Live site](http://full-stuck.com) • [📁 Repository](https://github.com/cw-thesis-project/full-stuck.com) • [🎬 Demo video](https://www.youtube.com/watch?v=RHwkrV2tcAw)
 
 ---
 
@@ -118,7 +118,7 @@ Play alone, challenge random opponents or your own friends.
 
 **Tech stack**: Typescript | React | Rxjs | Sass | GSAP | Howler.js | Express | Socket.io | Firebase
 
-> [Live site](https://play-taipo.netlify.app/) • [Repository](https://github.com/vikvikvr/taipo) • [Demo video](https://www.youtube.com/watch?v=xHpyR43vOwg)
+> [🌐 Live site](https://play-taipo.netlify.app/) • [📁 Repository](https://github.com/vikvikvr/taipo) • [🎬 Demo video](https://www.youtube.com/watch?v=xHpyR43vOwg)
 
 ---
 
@@ -136,7 +136,7 @@ Open the map, add markers and let others know something is wrong there.
 
 **Tech Stack**: React Native | Expo | Firebase | Jest.
 
-> [Repository](https://github.com/vikvikvr/HandiCrawl) • [Demo video](https://www.youtube.com/watch?v=5iPP18p-RU8)
+> [📁 Repository](https://github.com/vikvikvr/HandiCrawl) • [🎬 Demo video](https://www.youtube.com/watch?v=5iPP18p-RU8)
 
 ---
 
@@ -156,7 +156,7 @@ Mayhem happens randomly.
 
 **Tech Stack**: Typescript | React | p5.js
 
-> [Live site](https://asteroids-client.netlify.app/) • [Repository](https://github.com/vikvikvr/asteroids)
+> [🌐 Live site](https://asteroids-client.netlify.app/) • [📁 Repository](https://github.com/vikvikvr/asteroids)
 
 ---
 
