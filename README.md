@@ -162,6 +162,8 @@ Mayhem happens randomly.
 
 ## Let's chat 💬
 
+Don't be afraid to reach out!
+
 
 <a title="connect on LinkedIn" href="https://www.linkedin.com/in/vikvikvr/">
   <img width="150px" src="https://www.learninglight.com/wp-content/uploads/2017/06/connect-on-LinkedIn-button.png"/>
