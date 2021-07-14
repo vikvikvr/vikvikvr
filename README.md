@@ -1,5 +1,7 @@
 <img width="100%" src="./assets/github-banner-cropped.gif" alt="writing code for the future" />
 
+
+
 ## About me <img width="24px" src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif">
 
 I'm **Viktor**, Full Stack Developer from Italy.
@@ -147,13 +149,12 @@ Classic **arcade game** with a twist: fly in space and survive the asteroids fie
 
 Don't be afraid to reach out!
 
-
 <a title="connect on LinkedIn" href="https://www.linkedin.com/in/vikvikvr/">
-  <img width="150px" src="https://www.learninglight.com/wp-content/uploads/2017/06/connect-on-LinkedIn-button.png"/>
+  <img src="https://img.shields.io/badge/Connect-LinkedIn-3178C6.svg?logo=linkedin"/>
 </a>
 
 <a title="send me an email" href="mailto:ricchiuto.viktor@gmail.com">
-  <img width="150px" src="https://freepikpsd.com/media/2020/03/Free-Send-Email-Button-PNG-Photos.png"/>
+  <img src="https://img.shields.io/badge/Send-Email-EA4335.svg?logo=gmail"/>
 </a>
 
 
