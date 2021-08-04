@@ -23,7 +23,7 @@ I'm **Viktor**, Full Stack Developer from Italy.
 Here are some **technologies** I've built projects with:
 
 <details open>
-<summary>Front end</summary>
+  <summary><b>Front end</b></summary>
   <br>  
   <p>
     <img width ='32px' title="HTML5" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>    
@@ -47,8 +47,8 @@ Here are some **technologies** I've built projects with:
   </p>
 </details>
 
-<details open>
-<summary>Back end</summary>
+<details>
+  <summary><b>Back end</b></summary>
   <br>
   <img width ='32px' title="Typescript" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'>
   <img width ='32px' title="node.js" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
@@ -64,7 +64,7 @@ Here are some **technologies** I've built projects with:
 </details>
 
 <details>
-<summary>Softwares</summary>
+  <summary><b>Softwares</b></summary>
   <br>  
   <img width ='32px' title="Git" src ='https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg'>
   <img width ='32px' title="Git" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
@@ -78,7 +78,7 @@ Here are some **technologies** I've built projects with:
 </details>
 
 <details>
-<summary>Also worked with</summary>
+<summary><b>Also worked with</b></summary>
   <br>
   <img width ='32px' title="C" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'>
   <img width ='32px' title="Java" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>
@@ -104,47 +104,54 @@ Full Stack **serverless application**: become a coding bootcamp student, play mi
 
 > [🌐 Website](http://full-stuck.com) • [📁 Repository](https://github.com/cw-thesis-project/full-stuck.com) • [🎬 Demo video](https://www.youtube.com/watch?v=RHwkrV2tcAw)
 
----
+<details>
+  <summary><b>See more 👈</b></summary>  
+  
+  <hr/>
 
-### ⌨ [Tàipo](https://github.com/vikvikvr/taipo)
+  ### ⌨ [Tàipo](https://github.com/vikvikvr/taipo)
 
-Full Stack multiplayer **typing game** that rewards speed and reflexes: watch out for the typos!
+  Full Stack multiplayer **typing game** that rewards speed and reflexes: watch out for the typos!
 
-<a href="https://play-taipo.netlify.app/" title="Play now!">
-<img width="300px" src="./assets/taipo-mockups.png" alt="taipo mocks">
-</a>
+  <a href="https://play-taipo.netlify.app/" title="Play now!">
+  <img width="300px" src="./assets/taipo-mockups.png" alt="taipo mocks">
+  </a>
 
-**Tech stack**: Typescript | React | Rxjs | Sass | GSAP | Howler.js | Express | Socket.io | Firebase
+  **Tech stack**: Typescript | React | Rxjs | Sass | GSAP | Howler.js | Express | Socket.io | Firebase
 
-> [🌐 Website](https://play-taipo.netlify.app/) • [📁 Repository](https://github.com/vikvikvr/taipo) • [🎬 Demo video](https://www.youtube.com/watch?v=xHpyR43vOwg)
+  > [🌐 Website](https://play-taipo.netlify.app/) • [📁 Repository](https://github.com/vikvikvr/taipo) • [🎬 Demo video](https://www.youtube.com/watch?v=xHpyR43vOwg)
 
----
+  ---
 
-### ♿ [Handi-Crawl](https://github.com/vikvikvr/HandiCrawl)
+  ### ♿ [Handi-Crawl](https://github.com/vikvikvr/HandiCrawl)
 
-**Mobile app** that helps people with physical impairments track architectural barriers of public places.
+  **Mobile app** that helps people with physical impairments track architectural barriers of public places.
 
-<a href="https://github.com/vikvikvr/HandiCrawl" title="View code">
-  <img width="300px" src="./assets/handi-crawl-mocks.png" alt="handi crawl mocks">
-</a>
+  <a href="https://github.com/vikvikvr/HandiCrawl" title="View code">
+    <img width="300px" src="./assets/handi-crawl-mocks.png" alt="handi crawl mocks">
+  </a>
 
-**Tech Stack**: React Native | Expo | Firebase | Jest.
+  **Tech Stack**: React Native | Expo | Firebase | Jest.
 
-> [📁 Repository](https://github.com/vikvikvr/HandiCrawl) • [🎬 Demo video](https://www.youtube.com/watch?v=5iPP18p-RU8)
+  > [📁 Repository](https://github.com/vikvikvr/HandiCrawl) • [🎬 Demo video](https://www.youtube.com/watch?v=5iPP18p-RU8)
 
----
+  ---
 
-### 🚀 [Asteroids](https://github.com/vikvikvr/asteroids)
+  ### 🚀 [Asteroids](https://github.com/vikvikvr/asteroids)
 
-Classic **arcade game** with a twist: fly in space and survive the asteroids field.
+  Classic **arcade game** with a twist: fly in space and survive the asteroids field.
 
-<a href="https://asteroids-client.netlify.app/" title="Play now!">
-   <img width="300px" src="https://camo.githubusercontent.com/051d0968aa830aaef953937b54dd80b062e58d1afea40381be36d807b480a032/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f627667536370746e574942386a576c536f782f736f757263652e676966" alt="asteroids gameplay">
-</a>
+  <a href="https://asteroids-client.netlify.app/" title="Play now!">
+     <img width="300px" src="https://camo.githubusercontent.com/051d0968aa830aaef953937b54dd80b062e58d1afea40381be36d807b480a032/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f627667536370746e574942386a576c536f782f736f757263652e676966" alt="asteroids gameplay">
+  </a>
 
-**Tech Stack**: Typescript | React | p5.js
+  **Tech Stack**: Typescript | React | p5.js
 
-> [🌐 Website](https://asteroids-client.netlify.app/) • [📁 Repository](https://github.com/vikvikvr/asteroids)
+  > [🌐 Website](https://asteroids-client.netlify.app/) • [📁 Repository](https://github.com/vikvikvr/asteroids)
+
+  
+</details>
+
 
 ---
 
