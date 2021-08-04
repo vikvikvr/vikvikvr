@@ -38,7 +38,7 @@ Here are some **technologies** I've built projects with:
     <img width ='32px' title="Rxjs" src ='https://cdn.worldvectorlogo.com/logos/rxjs-1.svg'>  
     <img width ='32px' title="Jest" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg'>
     <img width ='32px' title="Testing library" src ='https://testing-library.com/img/logo-large.png'>   
-    <img width ='32px' title="Jest" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cypress.svg'>
+    <img width ='32px' title="Cypress" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cypress.svg'>
     <img width ='32px' title="GSAP" src ='https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg'>    
     <img width ='32px' title="jQuery" src ='https://cdn.iconscout.com/icon/free/png-256/jquery-7-1175152.png'>  
     <img width ='32px' title="Netlify" src ='https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png'>
