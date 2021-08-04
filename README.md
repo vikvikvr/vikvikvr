@@ -26,15 +26,16 @@ Here are some **technologies** I've built projects with:
 <summary>Front end</summary>
   <br>  
   <p>
-    <img width ='32px' title="HTML5" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
-    <img width ='32px' title="CSS3" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
+    <img width ='32px' title="HTML5" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>    
     <img width ='32px' title="Javascript" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>  
     <img width ='32px' title="Typescript" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'>  
     <img width ='32px' title="React" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>   
     <img width ='32px' title="Next.js" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'>  
     <img width ='32px' title="Agular" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'>
     <img width ='32px' title="SASS" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'>
-    <img width ='32px' title="Redux" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'>
+    <img width ='32px' title="CSS3" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
+    <img width ='32px' title="Styled components" src ='https://avatars.githubusercontent.com/u/20658825?s=200&v=4'>
+    <img width ='32px' title="Redux" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'>    
     <img width ='32px' title="Rxjs" src ='https://cdn.worldvectorlogo.com/logos/rxjs-1.svg'>  
     <img width ='32px' title="Jest" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg'>
     <img width ='32px' title="Testing library" src ='https://testing-library.com/img/logo-large.png'>   
